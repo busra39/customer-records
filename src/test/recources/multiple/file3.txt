@@ -1,0 +1,8 @@
+{"latitude": "54.0894797", "user_id": 8, "name": "Eoin Ahearn", "longitude": "-6.18671"}
+{"latitude": "53.038056", "user_id": 26, "name": "Stephen McArdle", "longitude": "-7.653889"}
+INVALID LINE
+{"latitude": "52.2559432", "user_id": 9, "name": "Jack Dempsey", "longitude": "-7.1048927"}
+{"latitude": "52.240382", "user_id": 10,  "longitude": "-6.972413"}
+{"latitude": "53.2451022", "user_id": 4, "name": "Ian Kehoe", "longitude": "-6.238335"}
+{"latitude": "52.240382", "user_id": 1, "color":"red", "longitude": "-6.972413"}
+{"latitude": "52.240382", "user_id": 6, "color":"red", "long": "-6.972413"}
